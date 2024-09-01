@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://depohiwweb.pages.dev/sitemap.xml
